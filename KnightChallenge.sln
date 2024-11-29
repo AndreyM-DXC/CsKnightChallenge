@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnightChallenge", "KnightChallenge\KnightChallenge.csproj", "{6753356B-0A43-4D26-96EC-044D7DCAA166}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6753356B-0A43-4D26-96EC-044D7DCAA166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6753356B-0A43-4D26-96EC-044D7DCAA166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6753356B-0A43-4D26-96EC-044D7DCAA166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6753356B-0A43-4D26-96EC-044D7DCAA166}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EA3E205-4C40-499F-9087-208A060A5523}
+	EndGlobalSection
+EndGlobal
